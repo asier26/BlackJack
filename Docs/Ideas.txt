@@ -1,0 +1,21 @@
+El usuario iniciara sesion en un formulario de inicio de sesion, en caso de no tener una cuenta se registrara.
+Los campos solicitados para el registro seran: Usuario (unico o no), email?, fecha de nacimiento y contraseña.
+Los usuarios comenzaran con 200 creditos que podran apostar en los diferentes juegos.
+	Se puede guardar la fecha de la última sesión para dar al usuario gratuitamente 10 creditos al día.
+Los usuarios no se borraran de la BD si no que tendran un campo state que definira si esta de alta o se ha dado de baja.
+En principio se jugará contra la maquina (el casino)
+	Más adelante, mediante web sockets podemos hacer que más de un usuario juegue en la misma mesa (contra otros y el casino)
+
+Usuario - id, nombre, fecha nac, estado, fecha sesion...
+Login - id ,email, pass
+local y session storage
+
+clase carta
+	tipo 
+	numero
+
+clase mazo
+	lista de cartas
+
+clase juego
+	x mazos

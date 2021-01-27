@@ -5,3 +5,5 @@
 /.vs
 /Source/BlackJack/.vs/BlackJack/v16
 /Source/BlackJack/obj
+/Source/.vs/Casino
+/Source/BlackJack/bin/Debug/net5.0

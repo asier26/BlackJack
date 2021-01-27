@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Source/BlackJack/.vs/BlackJack/v16
+/Source/BlackJack/obj

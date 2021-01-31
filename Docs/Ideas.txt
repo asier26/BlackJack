@@ -19,3 +19,7 @@ clase mazo
 
 clase juego
 	x mazos
+
+Apuesta minima: Sera del 5% del credito total del usuario.
+2º factor de autenticación
+Aplicar JOSE en la cabecera de los post
